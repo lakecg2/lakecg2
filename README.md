@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+</p>
+
 <h1 align="center">Hi , I'm Carlos Sotelo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 Hi there 👋 I'm Carlos Sotelo,
 
@@ -31,5 +35,5 @@ I'm a fast learner and am interesed in working an helping with programming
 <br>
 
 ## Contact me : 
-📫 [![Gmail Badge](https://img.shields.io/badge/-csotelopi@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:csotelopi@gmail.com)](csotelopi@gmail.com)
+📫 <a href="mailto:csotelopi@gmai.com" target="blank"><img align="center" src="https://img.shields.io/badge/csotelopi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 [![Instagram Badge](https://img.shields.io/badge/-pincasot02_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/pincasot02/?next=%2F)](https://www.instagram.com/pincasot02/?next=%2F)
