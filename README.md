@@ -35,5 +35,4 @@ I'm a fast learner and am interesed in working an helping with programming
 <br>
 
 ## Contact me : 
-📫 <a href="mailto:csotelopi@gmai.com" target="blank"><img align="center" src="https://img.shields.io/badge/csotelopi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 [![Instagram Badge](https://img.shields.io/badge/-pincasot02_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/pincasot02/?next=%2F)](https://www.instagram.com/pincasot02/?next=%2F)
