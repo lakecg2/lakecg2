@@ -14,12 +14,12 @@ I'm a fast learner and am interesed in working an helping with programming
 
 <h4> Languages </h4>
 <span> 
-  <img src=https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;>
-  <img src=https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;>
-  <img src=https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;>
-  <img src=https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;>
-  <img src=https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;>
-  <img src=https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;>
+  <img src=https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)>
+  <img src=https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)>
+  <img src=https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)>
+  <img src=https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)>
+  <img src=https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)>
+  <img src=https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)>
   <img src=https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\>
 </span>
 
