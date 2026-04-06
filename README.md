@@ -16,10 +16,7 @@ I'm a fast learner and am interesed in working an helping with programming
 <span> 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  [react-badge-lg]: https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=fff&style=for-the-badge
-  [react-web]: https://reactjs.org/
-  [![react-badge-lg]][react-web]
-  
+  <img src=https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=fff&style=for-the-badge>
 </span>
 
 
