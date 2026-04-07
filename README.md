@@ -14,13 +14,15 @@ I'm a fast learner and am interesed in working an helping with programming
 
 <h4> Languages </h4>
 <span> 
-  <img src=https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)>
-  <img src=https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)>
-  <img src=https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)>
-  <img src=https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)>
-  <img src=https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)>
-  <img src=https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)>
-  <img src=https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\>
+<p align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /></a>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
 </span>
 
 <h4>DB</h4>
